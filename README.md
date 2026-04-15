@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>Computer Engineering student focused on DevOps, Infrastructure, and Networking, with hands-on experience building and maintaining self-hosted systems.<br><br>I work mainly with Linux, Docker, and observability tools like Prometheus and Grafana through a 24/7 homelab environment. This allows me to test, break, and solve real-world issues related to performance, networking, and system reliability.<br><br>I am particularly interested in automation, observability, and secure networking. I focus on troubleshooting based on metrics and have experience identifying and resolving real bottlenecks in production-like environments.<br><br>
+Computer Engineering student focused on DevOps, Infrastructure, and Networking, with hands-on experience building and maintaining self-hosted systems.<br><br>I work mainly with Linux, Docker, and observability tools like Prometheus and Grafana through a 24/7 homelab environment. This allows me to test, break, and solve real-world issues related to performance, networking, and system reliability.<br><br>I am particularly interested in automation, observability, and secure networking. I focus on troubleshooting based on metrics and have experience identifying and resolving real bottlenecks in production-like environments.<br><br>
 
 
 ## 🌐 Socials:
