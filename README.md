@@ -1,7 +1,7 @@
 <div align="left">
   <img align="right" height="150" src="./assets/cat.gif" alt="Pixel art cat" />
 
-  <h2>Alexandre Andrade</h2>
+  <h3>Alexandre Andrade</h3>
 
   Final-year Computer Engineering student at ESTGV.<br><br>
   Interested in infrastructure, networking, observability and software engineering.<br>
@@ -13,8 +13,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daffwt221&show_icons=true&include_all_commits=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daffwt221&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/daffwt221/daffwt221/stats-output/stats.svg" height="150" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/daffwt221/daffwt221/languages-output/languages.svg" height="150" alt="Top languages" />
 </div>
 
 ---
