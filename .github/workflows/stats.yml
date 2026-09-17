@@ -24,6 +24,7 @@ jobs:
           options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&theme=dracula&hide_border=false
           path: dist/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          core_version: 2.2.0
           fail_on_error: true
 
       - name: Publish stats.svg
