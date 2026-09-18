@@ -21,9 +21,11 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&theme=github_dark_dimmed&hide_border=true&border_radius=8          token: ${{ secrets.GITHUB_TOKEN }}
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&theme=github_dark_dimmed&hide_border=true&border_radius=8
+          path: dist/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
           core_version: 2.2.0
-          fail_on_error: true
+          fail_on_error: true          
 
       - name: Publish stats.svg
         uses: crazy-max/ghaction-github-pages@v5
