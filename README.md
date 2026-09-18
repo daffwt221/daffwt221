@@ -13,8 +13,8 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/daffwt221/daffwt221/stats-output/stats.svg" height="150" alt="GitHub stats" />
-  <img src="https://raw.githubusercontent.com/daffwt221/daffwt221/languages-output/languages.svg" height="150" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/daffwt221/daffwt221/stats-output/stats.svg?v=2" height="150" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/daffwt221/daffwt221/languages-output/languages.svg?v=2" height="150" alt="Top languages" />
 </div>
 
 ---
