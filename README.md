@@ -29,8 +29,8 @@ Firefox extension for independent pitch and playback-speed control, built around
 
 **[PCSpeedAPP](https://github.com/daffwt221/PCSpeedAPP-showcase)**  
 Showcase of my 2023 PAP: a web application for managing computer-repair workflows, customers and repair orders.
-
-**PRUMO**  
+<!-- private project -->
+**[PRUMO](https://github.com/daffwt221/PRUMO)**   
 A private personal-finance application currently in development.
 
 ---
