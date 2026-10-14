@@ -68,5 +68,6 @@ A private personal-finance application currently in development.
 </div>
 
 ---
+🐍 **snek**
 
-<img src="https://raw.githubusercontent.com/daffwt221/daffwt221/snake-output/snake.svg" alt="Contribution snake" />
+<img src="https://raw.githubusercontent.com/daffwt221/daffwt221/snake-output/snake-dark.svg" alt="Contribution snake" />
